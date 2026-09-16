@@ -1,0 +1,181 @@
+{
+  "grayscale": [
+    {
+      "name": "astronaut",
+      "file": "astronaut.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "camera",
+      "file": "camera.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "cell",
+      "file": "cell.png",
+      "resolution": "426x512"
+    },
+    {
+      "name": "chelsea",
+      "file": "chelsea.png",
+      "resolution": "451x300"
+    },
+    {
+      "name": "clock",
+      "file": "clock.png",
+      "resolution": "400x300"
+    },
+    {
+      "name": "coffee",
+      "file": "coffee.png",
+      "resolution": "512x341"
+    },
+    {
+      "name": "coins",
+      "file": "coins.png",
+      "resolution": "384x303"
+    },
+    {
+      "name": "colorwheel",
+      "file": "colorwheel.png",
+      "resolution": "371x370"
+    },
+    {
+      "name": "checkerboard",
+      "file": "checkerboard.png",
+      "resolution": "200x200"
+    },
+    {
+      "name": "brick",
+      "file": "brick.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "grass",
+      "file": "grass.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "gravel",
+      "file": "gravel.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "moon",
+      "file": "moon.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "page",
+      "file": "page.png",
+      "resolution": "384x191"
+    },
+    {
+      "name": "rocket",
+      "file": "rocket.png",
+      "resolution": "512x341"
+    },
+    {
+      "name": "text",
+      "file": "text.png",
+      "resolution": "448x172"
+    },
+    {
+      "name": "retina",
+      "file": "retina.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "immunohistochemistry",
+      "file": "immunohistochemistry.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "hubble_deep_field",
+      "file": "hubble_deep_field.png",
+      "resolution": "512x446"
+    },
+    {
+      "name": "shepp_logan_phantom",
+      "file": "shepp_logan_phantom.png",
+      "resolution": "400x400"
+    }
+  ],
+  "color": [
+    {
+      "name": "astronaut",
+      "file": "astronaut.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "chelsea",
+      "file": "chelsea.png",
+      "resolution": "451x300"
+    },
+    {
+      "name": "coffee",
+      "file": "coffee.png",
+      "resolution": "512x341"
+    },
+    {
+      "name": "immunohistochemistry",
+      "file": "immunohistochemistry.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "hubble_deep_field",
+      "file": "hubble_deep_field.png",
+      "resolution": "512x446"
+    },
+    {
+      "name": "rocket",
+      "file": "rocket.png",
+      "resolution": "512x341"
+    },
+    {
+      "name": "retina",
+      "file": "retina.png",
+      "resolution": "512x512"
+    },
+    {
+      "name": "colorwheel",
+      "file": "colorwheel.png",
+      "resolution": "371x370"
+    },
+    {
+      "name": "logo",
+      "file": "logo.png",
+      "resolution": "500x500"
+    },
+    {
+      "name": "grace_hopper",
+      "file": "grace_hopper.png",
+      "resolution": "436x512"
+    },
+    {
+      "name": "minduka_pack",
+      "file": "minduka_pack.png",
+      "resolution": "128x128"
+    },
+    {
+      "name": "mpl_logo",
+      "file": "mpl_logo.png",
+      "resolution": "512x122"
+    },
+    {
+      "name": "raccoon_face",
+      "file": "raccoon_face.png",
+      "resolution": "512x384"
+    },
+    {
+      "name": "color_checkerboard",
+      "file": "color_checkerboard.png",
+      "resolution": "256x256"
+    },
+    {
+      "name": "color_gradient",
+      "file": "color_gradient.png",
+      "resolution": "384x256"
+    }
+  ]
+}
